@@ -6,7 +6,8 @@ import { recipes } from './tempList';
 import RecipeList from './components/RecipeList';
 import RecipeDetails from './components/RecipeDetails';
 
-//Testing application
+//Testing application - from local
+// Testing from server
 
 class App extends Component {
   state = {
