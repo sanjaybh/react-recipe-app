@@ -7,7 +7,7 @@ import RecipeList from './components/RecipeList';
 import RecipeDetails from './components/RecipeDetails';
 
 //Testing application - from local modified again
-// Testing from server
+// Testing from server - mod again
 
 class App extends Component {
   state = {
