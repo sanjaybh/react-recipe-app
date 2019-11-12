@@ -12,7 +12,7 @@ export default class RecipeSearch extends Component {
                                 search for recipe with <strong className="text-danger">Food2Fork</strong>
                             </h1>
                             <div className="col-10 mx-auto col-md-8 mt-5 text-center">
-                                <h3>powered by Samarth Bhan</h3>
+                                <h3>powered by <strong className="text-danger">Samarth Bhan</strong></h3>
                             </div>
                             <form className="mt-4" onSubmit={handleSubmit}>
                                 <label htmlFor="search" className="text-capitalize">
