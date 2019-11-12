@@ -11,6 +11,7 @@ export default class RecipeSearch extends Component {
                             <h1 className="text-slanted text-capitalized">
                                 search for recipe with <strong className="text-danger">Food2Fork</strong>
                             </h1>
+                            <h3>powered by Samarth Bhan</h3>
                             <form className="mt-4" onSubmit={handleSubmit}>
                                 <label htmlFor="search" className="text-capitalize">
                                     type recipes separated by comma
